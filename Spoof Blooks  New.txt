@@ -1,4 +1,4 @@
-alert("Made by Blooket9897")
+alert("Made byBlooket9897")
 spoofBlooks = {
         "Chick": "https://blooket.s3.us-east-2.amazonaws.com/blooks/farmAnimals/chick.svg",
         "Chicken": "https://blooket.s3.us-east-2.amazonaws.com/blooks/farmAnimals/chicken.svg",
