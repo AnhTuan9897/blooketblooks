@@ -1,2 +1,2 @@
 # blooketblooks
-*Just put the code to console*
+*Jusst put the code to console*
